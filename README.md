@@ -1,3 +1,3 @@
 # ufsj-heuristicas
 
-![](/export/markdown_display.svg "ACO na Função ackley(-100,100)")
+![](/export/markdown_display.webm "ACO na Função ackley(-100,100)")
